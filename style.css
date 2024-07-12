@@ -5,13 +5,19 @@ img{
 }
 #defination{
     display: flex;
-    gap: 150px;
+    gap:50px;
     justify-content: center;
-    
+    background-color: rgb(192, 246, 246);
+    border-radius: 50px;
+    box-shadow: 5px 10px #888888;
+    box-sizing: border-box;
 }
+
 .head{
-    margin-left: 70px;
+    margin-left: 120px;
+  
 }
+
 #details{
     margin-top: 60px;
 }
@@ -20,7 +26,4 @@ b{
 }
 p{
     font-size: 12px;
-}
-h3{
-    margin-left: 20px;
 }
