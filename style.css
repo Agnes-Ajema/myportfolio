@@ -1,0 +1,23 @@
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+#defination{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    
+}
+#details{
+    margin-top: 60px;
+}
+b{
+    font-size: 30px;
+}
+p{
+    font-size: 12px;
+}
+h3{
+    margin-left: 20px;
+}
